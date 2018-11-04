@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Work\\tawwasyAppVersion 1.0\\android\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\d4d8e957cfde08b2e1df382eebfe8bc5\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Work\\tawwasyAppVersion 1.0\\android\\app\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\d4d8e957cfde08b2e1df382eebfe8bc5\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Work\\tawwasyAppVersion 1.0\\android\\app\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\eb016b14b5da4cfb95f9938dcddb7cd0\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "D:\\Work\\tawwasyAppVersion 1.0\\android\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\d4d8e957cfde08b2e1df382eebfe8bc5\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\Work\\tawwasyAppVersion 1.0\\android\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\d4d8e957cfde08b2e1df382eebfe8bc5\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Work\\tawwasyAppVersion 1.0\\android\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\d4d8e957cfde08b2e1df382eebfe8bc5\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Work\\tawwasyAppVersion 1.0\\android\\app\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\eb016b14b5da4cfb95f9938dcddb7cd0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Work\\tawwasyAppVersion 1.0\\android\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\d4d8e957cfde08b2e1df382eebfe8bc5\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Work\\tawwasyAppVersion 1.0\\android\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\d4d8e957cfde08b2e1df382eebfe8bc5\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Work\\tawwasyAppVersion 1.0\\android\\app\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\d4d8e957cfde08b2e1df382eebfe8bc5\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\Work\\tawwasyAppVersion 1.0\\android\\app\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\d4d8e957cfde08b2e1df382eebfe8bc5\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Work\\tawwasyAppVersion 1.0\\android\\app\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\eb016b14b5da4cfb95f9938dcddb7cd0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    }
+]

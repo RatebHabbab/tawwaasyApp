@@ -1,0 +1,4 @@
+#Mon Oct 29 16:37:12 EET 2018
+base.0=D\:\\Work\\tawwasyAppBackup12expo\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Work\\tawwasyAppBackup12expo\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

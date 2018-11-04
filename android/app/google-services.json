@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "289880916444",
+    "firebase_url": "https://tawwasyapp.firebaseio.com",
+    "project_id": "tawwasyapp",
+    "storage_bucket": "tawwasyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289880916444:android:6efa17be5cb678d1",
+        "android_client_info": {
+          "package_name": "com.tawwasyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289880916444-0lkapqvvhjcqnb6tki4hjfn08pd3hgip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tawwasyapp",
+            "certificate_hash": "78d83ac38ec9c2f0ccf279bf1c8fc36c2884d41f"
+          }
+        },
+        {
+          "client_id": "289880916444-t801ce8tk0oj6o7j8sd4j4ncg507fjoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5N1JcVc0IibdVnXsi-BxNaPA9RhNjO94"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289880916444-t801ce8tk0oj6o7j8sd4j4ncg507fjoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

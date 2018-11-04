@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ff997c37654bead6c259c0b124d52bdc944f5bff">
+        <dex dex="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-animated-base-1.3.0_c699647ba4849ebd11d3b4cb9ccaa31300c00336.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\tawwasyApp\react-native-navigation\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="819bc38b015b00d23f787d201cc5e7d15e47173a">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\tawwasyApp-react-native-navigation-unspecified_82cbf1e598fa0e13fb34a36695a26de77f5d861a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Work\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_902cf2ff5a1e011b0ba199b70230dd4c6a988fc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_6d9650028ab827b81fc76ea8c92ba05f6193a950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_27c7068ef94ff03e71a2d89a982b1ca91495e5ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_768e7330b5472ddaa2e07f902d64ebc348daa04f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ff997c37654bead6c259c0b124d52bdc944f5bff">
+        <dex dex="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-animated-base-1.3.0_a5709ff87fcaf3c2af47f02724ca76c360a3d36e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_783a1e5ca64ece182f9d6bff7559e0051c81dd5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_25489ba34e26b019daffdebb82a9cae2249224e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_162370ff59eeb685b3f2122ea1ac71a9e36f3a61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_6f02515c448a2d40bd4d37404b2d888f41bf8638.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_8f24042890b3faf59bce3feee4072f151478fe55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_b9579af03bc6dedb7a86df385c56abc8c1789088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base-support\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ff84ecfe1dd78b98be147daaa042bc32219793b8">
+        <dex dex="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-animated-base-support-1.3.0_f5fd82433660769bf607e8ea394480dae95dad29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_7fdf277f8f701c99d5aa293f3f74ae16a7b9183a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_f7ded2a2246234738a121c561565b5114b7f5225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_bb87db9d16457623a052ca801d338889b0467fa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_9e4dc41b50ab7b2b331f5fc0b24c2398f4223d8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_4b427e145d0f4ae3dfcf2fcb2ab21a066d71c9ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_3e0b812f3b259a79931790144091fa0b3e4faf21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_32281ded23c7cef1d9cf53b214423e280e60acca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_76954465d97fc649f8c98995bcd98e0b2f9e4b89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_e8df29b8589620d02bbf5a2beda32c55ca27cde6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_b95d9a2e6ecb013b05470a61627528723adb5f7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\Work\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_ca4fb6ad808f3dd1b8cb22a3512ed09ec691cd7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_39502912910754554af7222d3e63f53294c2259f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\Work\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_4b67f8178a16f0e5f74357a4ca0aca52095c83dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Work\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_56eb2b7006a3776dbacbb74e8f78a413b9b46496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_961f2ca1f31c1115f5c223c0764711c34fcdfb2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_241b1faca3b0ddffea3588e22794127ff9159a23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_e3aa1509f173aac5993ef7cc7c56a57a4c7d8210.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-gif\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f79b1232c817718a764464331f75b7c6b0b4da2">
+        <dex dex="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-animated-gif-1.3.0_f4f6eaaa3c6362b79bd37ab0edd311354052a1ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c0796a0a92f10b1ad7beb876fd087908241ae57b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-gif\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f79b1232c817718a764464331f75b7c6b0b4da2">
+        <dex dex="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-animated-gif-1.3.0_9fe447d98a4f080cacafb014b8edeb4b6883e8bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_965dbd9d6e46c865a9ffe75d828bb80d3982f897.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base-support\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ff84ecfe1dd78b98be147daaa042bc32219793b8">
+        <dex dex="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-animated-base-support-1.3.0_2b6da9776abea7590fd82398654dfb92459e15d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_8f31c6e39734310c79825a519fc0a8783d754e8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_0420debe5cb0c21e56323a6300b2c02828c77b3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\Work\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_b7f6bd60f966c3aac264d5dae4ccf232a6b82e87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_550b5a28acea241b18ccc90d0f08f04878894169.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_30ef20ead0c0862fc2a49cfb0648c73cf66376c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_a8050b573d3c91a2a551498d85d43c71af626981.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\Work\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_6674e2cf39f4f6db1ff4adce116d2d07dc37ff72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\Work\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_6bb108cfb476201f46ca1677d26eda11fa1b9ddd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_0ae5c166d9053012fc5577ae73a8599984bd1ba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_36056769a8748fa432dc9944ec7e6acf933ff838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_1cdb3088a1d01224c48b6cacb4501461399a004c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\exploded-aar\tawwasyApp\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\pre-dexed\debug\tawwasyApp-react-native-vector-icons-unspecified_3698e29c626115696d7f106b6fa2508ea42c4d1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-gif\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f79b1232c817718a764464331f75b7c6b0b4da2">
+        <dex dex="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-animated-gif-1.3.0_3f91d1775fd80675a91d3ebfb8257ea241432207.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_3fd97c60ad08e018805a5034bf4d15cebded625e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_4e735c50c994884fec093d13872b99f12f8d09d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_0fdc87224145301be2d1cb875ff69596051eaf15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_3a92fed31e6b62ef07111941dd5ef203908f4377.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_020c995464f93d20495830404eae5474ab7b602a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_3c30b7f35bc2fd4e1d768cd678abac408361f05c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_f4f6d4b7e1206545f2b9608a7e65937726d9e215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_d3326ae7b7b07884f2f350838c373339e57782eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_cf960ca10d7e440846d054055cbe1ca233e1d193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.aurelhubert\ahbottomnavigation\2.0.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.aurelhubert-ahbottomnavigation-2.0.6_78dfc34d527868dc7162603471879149b0266c29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_e966d466f5f1dd89c6a32ab4465aad0f8aff44b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_a93b0388085ee827af3036fc500bfa61a0821005.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_758f52a56032dfb1a603ae0c33182fdd49673f96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_75b68ff1965e808852586011cd7b3336d60be75b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_be4e38788cacf22d1cee968eb67a12c2615da750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Work\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_c6222bbe2f0be14333a9caf444b704e0e67905df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_3f19e62f84bd2de9f076d3cab96d2ed8cc461625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_c7d7d659df610b2ca722fde44248843cb71713e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\tawwasyApp\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\tawwasyApp-react-native-vector-icons-unspecified_eb52db30ed3fe69388bfaa6e47163ca4b9eb7b45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_5d288a98dfe971e3f4e99383ad7f2c139ca022b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_9cff1510cda4c6ec5614225cc6916bfa81cc92a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_6d9650028ab827b81fc76ea8c92ba05f6193a950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_2a5763fbda42209fc7db6825c188b6833278ab2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_2b4a0f009b13de1558d5164a78062b57981e221d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base-support\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ff84ecfe1dd78b98be147daaa042bc32219793b8">
+        <dex dex="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-animated-base-support-1.3.0_847c06a0ef750fbd4d92904c2bf891bf439746e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_dd8314b1ebf4bfec68fee367a33b3ffa16d47b71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_131fa01fedd2b49b7c3d4e7e0b9a65882a27913c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_d561d581b4e20c5956f4d12c72e935295f0290a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ff997c37654bead6c259c0b124d52bdc944f5bff">
+        <dex dex="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-animated-base-1.3.0_bf04f6d4e4a5beba571b066def270f1db6420e1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_768e7330b5472ddaa2e07f902d64ebc348daa04f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_b9579af03bc6dedb7a86df385c56abc8c1789088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_c32adb21df6b0fc155043525e7563d950c359721.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_6a65ff574981290cdef59b8ae12242cfcac6a240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu-toolbar\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-toolbar-1.5.4_baedd0459f59ba12a024d1a5d6f0258d5a03504a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_10fb71c20ddc0ea3fe3b081ef08f3744decf2874.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_bb87db9d16457623a052ca801d338889b0467fa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_7fadd95998b3cae89333aa16250a436b0024f460.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_c109aa45e58db81eea9bfde3594340260b3559f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_9f0ec0fa8350175ccfe7463713afb5a4281518f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_e3aa1509f173aac5993ef7cc7c56a57a4c7d8210.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_659fb6906439b63e848907a93186518f57e187ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_d9828613de7443fb4605a88c90fba48f13d61e1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_ed5058ecd2a3798f47971143c49233b3c78ed8f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_9e4dc41b50ab7b2b331f5fc0b24c2398f4223d8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\Work\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_4300d2934985f194930236bcbacdeca77dd4b763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\exploded-aar\tawwasyApp\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\pre-dexed\debug\tawwasyApp-react-native-vector-icons-unspecified_22444a1db13180112aae6d5d3de48010751e03e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_965dbd9d6e46c865a9ffe75d828bb80d3982f897.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c0796a0a92f10b1ad7beb876fd087908241ae57b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_4a3e5b5bef0d72f2219fed6b91d84220de6316c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\Work\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_ad2b503b408960063653ea1d0e6a48b332005786.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_75b68ff1965e808852586011cd7b3336d60be75b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_ca682d34dfd8bc683e267802f601496a8ba3b0e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_0fdc87224145301be2d1cb875ff69596051eaf15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Work\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_7e5f175d73c80874b6c76fef8844f158923d43e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Work\tawwasyAppBackup6\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_4cf76b5ec3ec5407c0495eeb782843a0914f43c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_0ae5c166d9053012fc5577ae73a8599984bd1ba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_36056769a8748fa432dc9944ec7e6acf933ff838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_30ef20ead0c0862fc2a49cfb0648c73cf66376c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_550b5a28acea241b18ccc90d0f08f04878894169.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="D:\Work\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_4a5fda88a0722672b9fbe7ec56908fec31efe04e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\Work\tawwasyAppBackup6 - Copy\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_39991b177ea4ca3568472822aa50e5a5677685c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_3fd97c60ad08e018805a5034bf4d15cebded625e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyApp\android\app\build\intermediates\exploded-aar\tawwasyApp\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="D:\Work\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\tawwasyApp-react-native-vector-icons-unspecified_2d3e61e7503e8d89704f57fe9092c376627efd6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_cf960ca10d7e440846d054055cbe1ca233e1d193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\Work\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_04aaba3b1e5a1f39c5501fee5b2e14c9561ea3cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_c367dbf9055e5dcca49ca4ed2d3b221dc1279609.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_4e735c50c994884fec093d13872b99f12f8d09d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="D:\reactnative\sellitApp course\React Native\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-1.5.4_ecf92c32d7bb8bb7a4fbd7add5c126f97b054537.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\exploded-aar\tawwasyApp\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="D:\Work\tawwasyAppBackup12expo\android\app\build\intermediates\pre-dexed\debug\tawwasyApp-react-native-vector-icons-unspecified_2c997acd99f2b0eb7392364e47a26e3e829f9d16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Work\tawwasyApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\Work\tawwasyApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_f7f4759a9c48070a17616516f5b28a76ff8f5b71.jar" />
+    </item>
+
+</items>

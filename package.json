@@ -1,0 +1,40 @@
+{
+  "name": "tawwasyApp",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "jest": "^23.6.0",
+    "jest-react-native": "^18.0.0",
+    "react-test-renderer": "16.3.1"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/Fonts"
+    ]
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "lodash": "^4.17.11",
+    "path": "^0.12.7",
+    "prop-types": "^15.6.2",
+    "react": "16.3.1",
+    "react-native": "~0.55.2",
+    "react-native-elements": "^1.0.0-beta7",
+    "react-native-firebase": "^5.0.0",
+    "react-native-router-flux": "^4.0.5",
+    "react-native-vector-icons": "^5.0.0",
+    "react-redux": "5.0.7",
+    "redux": "3.7.2",
+    "redux-promise": "0.5.3"
+  }
+}

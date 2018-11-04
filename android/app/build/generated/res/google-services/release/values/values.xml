@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">289880916444-t801ce8tk0oj6o7j8sd4j4ncg507fjoj.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://tawwasyapp.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">289880916444</string>
+    <string name="google_api_key" translatable="false">AIzaSyD5N1JcVc0IibdVnXsi-BxNaPA9RhNjO94</string>
+    <string name="google_app_id" translatable="false">1:289880916444:android:6efa17be5cb678d1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD5N1JcVc0IibdVnXsi-BxNaPA9RhNjO94</string>
+    <string name="google_storage_bucket" translatable="false">tawwasyapp.appspot.com</string>
+    <string name="project_id" translatable="false">tawwasyapp</string>
+</resources>
