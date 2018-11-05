@@ -4,7 +4,7 @@ import { Button } from 'react-native-elements';
 import OrderItem from './OrderItem';
 import { setCart } from '../../utils/misc';
 import { Actions } from 'react-native-router-flux';
-
+//kareem
 class checkout extends Component {
     constructor() {
         super();
